@@ -1,5 +1,5 @@
 .container {
-  width: 70%;
+  width: 90%;
   margin: auto;
   text-align: center;
 }
@@ -8,6 +8,15 @@
   text-align: center;
   display: inline-block;
 
+}
+
+#pic1{
+  display: inline-block;
+  
+}
+
+#pic2{
+  display: inline-block;
 }
 
 body {
